@@ -7,7 +7,7 @@ This is a solution to the [Space tourism multi-page website](https://www.fronten
 ![](./sledua.github.io_fm_space_index.html.png)
 ### Links
 
-- Solution URL: [Repo](https://sledua.github.io/fm_space)
+- Solution URL: [Repo](https://github.com/sledua/fm_space)
 - Live Site URL: [Live GH-pages](https://sledua.github.io/fm_space)
 ### Built with
 
